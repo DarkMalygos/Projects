@@ -5,7 +5,7 @@
 -    Role: Project Lead
 -    Teamwork and communication skill development
 
-- [AI projekt] - (https://colab.research.google.com/drive/1BPPLOss5jbHNnmy-ZCjLvT93yRLQGGBw?usp=sharing)
+- [AI project] - (https://colab.research.google.com/drive/1BPPLOss5jbHNnmy-ZCjLvT93yRLQGGBw?usp=sharing)
 -    Interpreted and transcribed a 3-hour audio file using Python
 -    Focus on speech-to-text and content analysis
 
@@ -14,7 +14,7 @@
 -    3D modeling integration using Blender
 -    Active team collaboration and communication
 
-- [Planning Poker alkalmazás fejlesztése C#-ban] - (https://github.com/noneszgaming/INTAL1)
+- [Planning Poker application in C#] - (https://github.com/noneszgaming/INTAL1)
 -    Responsibilities included backend development, database design, and REST API integration
 -    Teamwork, inter-team communication, and project planning
 
@@ -23,7 +23,7 @@
 -    Worked in GDScript
 -    Focus on coding, model integration, and testing within a team setting
 
-- Cisco, hálózati ismeretek (oklevél, bizonyítvány):
+- Cisco:
 -    Completed CISCO-certified course on computer networks
 -    Gained foundational and practical knowledge in network infrastructure and protocols
 -    Certificate earned
